@@ -1,2 +1,4 @@
 # caesar-encryptor-decryptor
-My second ever python project (ignore)
+Simple python caesar cipher encrypt/decrypt program I made in 2 hours (i'm a noob ok)
+
+this github thing kinda fun ngl
